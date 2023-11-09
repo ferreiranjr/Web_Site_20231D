@@ -6,7 +6,7 @@ Modelo de texto com tags
     <title>CARSTUNING</title>
 </head>
 <body>
-<h1><strong>Escritório da Gabi</h1></strong>
+<h1><strong>CARSTUNING</h1></strong>
 <!-- h1 = título --> 
 
  <!-- *Esse é um comentário explicando a função da tag-->
